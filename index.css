@@ -15,10 +15,15 @@
 
 .container {
     margin-top: 5rem;
+    margin-left: 1rem;
 }
 
 a {
     text-decoration: none;
     color: white;
     padding: 1rem;
+}
+
+.isActive {
+    text-decoration: underline;
 }

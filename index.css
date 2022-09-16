@@ -27,3 +27,7 @@ a {
 .isActive {
     text-decoration: underline;
 }
+
+.qcontainer {
+    margin-top: 0.5rem;
+}
